@@ -10,3 +10,8 @@ Projet DS TP5, SDN & NFV, Master 2 SRT (ESP/UCAD). Encadrant : Mr Sadio.
 
 ## Licence
 Contenu redactionnel — tous droits reserves.
+
+## Captures
+Voir le dossier `captures/`.
+
+![capture](captures/1.png)
